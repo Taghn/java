@@ -26,7 +26,7 @@ public class baitap_1{
         
         // thuc hanh so 2 ---------------------------------------------
         //dung noi chuoi
-        System.out.println("Gia tri BMI 2: " + bmi2);
+        System.out.println("Gia tri BMI 2: "+ bmi2);
         
     }
 }

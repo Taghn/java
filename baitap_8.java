@@ -15,7 +15,7 @@ public class baitap_8 {
             System.out.println();
         }
         
-        for ( i=5; i>=1; i--) {
+        for ( i=5; i>=1; i--){
             // in khoang trang
             for(j=1;j<=(i-1);j++)
             {

@@ -37,7 +37,7 @@ public class baitap_9 {
     }
     public static void drawdown() {
         int i,j;
-        for (i=3;i>=1;i--) {
+        for (i=3;i>=1;i--){
             // |
             System.out.print("|");
             // space

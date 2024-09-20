@@ -1,4 +1,4 @@
-public class baitap_7 {
+public class baitap_7{
     public static void main(String[] args) {
         // dat i la dong, j la bien chay
         int i,j;

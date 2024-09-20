@@ -1,5 +1,5 @@
 public class baitap_10 {
-    public static void drawline() {
+    public static void drawline(){
         System.out.print("+");
         for ( int i=1;i<=10;i++){
             System.out.print("-");
