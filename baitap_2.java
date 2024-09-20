@@ -5,7 +5,6 @@ public class baitap_2{
         double bmi;
 
         // tinh bmi
-
         height=70;
         weight=195;
         bmi=weight/(height*height)*703;
